@@ -1,5 +1,7 @@
 # amplify leaning 01
-https://github.com/roughlang/amplify_leaning01
+
+Github repository: https://github.com/roughlang/amplify_leaning01
+Blog: https://system.roughlang.jp/system/1799/
 
 
 
