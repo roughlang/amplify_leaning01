@@ -1,3 +1,9 @@
+# amplify leaning 01
+https://github.com/roughlang/amplify_leaning01
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
